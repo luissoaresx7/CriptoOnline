@@ -14,7 +14,7 @@ h1{
 }
 
 label{
-  color:#775bf5);
+  color:#775bf5;
   text-align:justify;
   font-weight: bold;
   letter-spacing: 1px;
@@ -24,7 +24,6 @@ label{
 select {
   width: 30%;
   padding: 16px 20px;
-  border: ;
   border-radius: 10px;
   background-color: #2a2b30;
   color:#775bf5;
@@ -53,7 +52,7 @@ select {
 }
 
 input[type=text]:focus {
-  background-color: #2a2b30);
+  background-color: #2a2b30;
   border: 3px solid #555;
 }
 
